@@ -1,6 +1,6 @@
 # Voice Command Recognizer
 
-## See .ipynb (Jupyter Notebook) file
+## See `main.ipynb` (Jupyter Notebook) file for the following:
 
 - convolutional neural network
 - spectrograms
